@@ -11,11 +11,14 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white&logoWidth=20)
 
-## 💻 Activity 
+## 🎠 Activities 
 - 홍익대학교 컴퓨터공학과 재학 (2018.03 ~ )
 - UMC (University Makeus Challenge) 4기 - Server (2023.03 ~ 2023.08)
-- 중고 의류 거래 플랫폼 <a href="https://github.com/Repick-official/repick-server-v2">Repick</a> - BE <sub>(2024.03 ~)</sub>
 - CMC (Central Makeus Challenge) 16기 - Server (2025.01 ~)
+
+## 💻 Projects 
+- 중고 의류 거래 플랫폼 <a href="https://github.com/Repick-official/repick-server-v2">Repick</a> - BE <sub>(2024.03 ~)</sub>
+- 사용자 데이터 기반 SNS 성장 전략 제안 서비스 <a href="https://github.com/Central-MakeUs/Spark-Server">Spark</a> - BE <sub>(2025.01 ~)</sub>
 ## 🏅 Stats
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
