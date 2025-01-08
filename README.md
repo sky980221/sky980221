@@ -29,5 +29,5 @@
   </a>
 </div>
 
-## 🏆certifications
+## 🏆Certifications
 - 제52회 SQL 개발자(SQLD)
