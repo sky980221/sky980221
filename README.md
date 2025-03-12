@@ -14,7 +14,8 @@
 ## 🎠 Activities 
 - 홍익대학교 컴퓨터공학과 재학 (2018.03 ~ )
 - UMC (University Makeus Challenge) 4기 - Server (2023.03 ~ 2023.08)
-- CMC (Central Makeus Challenge) 16기 - Server (2025.01 ~)
+- CMC (Central Makeus Challenge) 16기 - Server (2025.01 ~ 03)
+- CMC (Central Makeus Challenge) 17기 - Server Lead (2025.04 ~ )
 
 ## 💻 Projects 
 - 중고 의류 거래 플랫폼 <a href="https://github.com/Repick-official/repick-server-v2">Repick</a> - BE <sub>(2024.03 ~)</sub>
