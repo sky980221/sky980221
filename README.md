@@ -18,7 +18,7 @@
 - CMC (Central Makeus Challenge) 17기 - Server Lead (2025.04 ~ )
 
 ## 💻 Projects 
-- 중고 의류 거래 플랫폼 <a href="https://github.com/Repick-official/repick-server-v2">Repick</a> - BE <sub>(2024.03 ~)</sub>
+- 중고 의류 거래 플랫폼 <a href="https://github.com/Repick-official/repick-server-v2">Repick</a> - BE <sub>(2024.03 ~ 2024.10)</sub>
 - 사용자 데이터 기반 SNS 성장 전략 제안 서비스 <a href="https://github.com/Central-MakeUs/Spark-Server">Spark</a> - BE <sub>(2025.01 ~)</sub>
 ## 🏅 Stats
 <div style="display: flex; align-items: center;">
